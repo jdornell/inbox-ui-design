@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../fonts/icomoon.eot?7dp1ks');
+    src:    url('../fonts/icomoon.eot?7dp1ks#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?7dp1ks') format('truetype'),
+        url('../fonts/icomoon.woff?7dp1ks') format('woff'),
+        url('../fonts/icomoon.svg?7dp1ks#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon-remove_red_eye:before {
+    content: "\e903";
+}
+.icon-reply_all:before {
+    content: "\e901";
+}
+.icon-reply:before {
+    content: "\e902";
+}
+.icon-mail_outline:before {
+    content: "\e900";
+}
