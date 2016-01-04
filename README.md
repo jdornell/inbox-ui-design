@@ -1,2 +1,2 @@
-# inbox-ui-design
-Inbox design example of an email or message application
+# Inbox UI Design
+Design example of an email or message inbox created with CSS only.
